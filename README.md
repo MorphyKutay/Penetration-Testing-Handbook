@@ -19,8 +19,10 @@ Comprehensive vulnerability hunting and pentest guide for web application and so
 | [osint-method.md](osint-method.md) | OSINT methodology — Research techniques |
 | [parameter-pollution.md](parameter-pollution.md) | HTTP parameter pollution — HPP, bypass |
 | [race-condition.md](race-condition.md) | Race condition — TOCTOU, limit bypass |
+| [rce.md](rce.md) | Remote Code Execution — Code injection, file inclusion, command execution |
 | [req-smuggle.md](req-smuggle.md) | HTTP request smuggling — CL.TE, TE.CL, bypass |
 | [sql-injection.md](sql-injection.md) | SQL injection — Union, blind, NoSQL, ORM |
+| [shellcode.md](shellcode.md) | Shellcode — Exploit payloads, PIC, injection techniques |
 | [ssrf.md](ssrf.md) | Server-Side Request Forgery — Cloud metadata, internal access |
 | [ssti.md](ssti.md) | Server-Side Template Injection — SSTI exploitation |
 | [waf-bypass.md](waf-bypass.md) | WAF bypass techniques — Encoding, obfuscation |
