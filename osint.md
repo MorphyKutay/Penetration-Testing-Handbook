@@ -48,6 +48,7 @@
 - [TruePeopleSearch](https://www.truepeoplesearch.com/): Free people search in the U.S.
 - [Pipl](https://pipl.com/): Deep web people search (Note: primarily a paid service).
 - [Spokeo](https://www.spokeo.com/): People search engine.
+- [DeepSearch](https://deepsearch.tools/): Name-based people search with limited free candidate previews and paid reports.
 - [Webmii](https://webmii.com/): People search engine
 - [Clearbit](https://clearbit.com/): Data enrichment for companies and individuals.
 - [FaceCheck](https://facecheck.id/): Find people by their picture
